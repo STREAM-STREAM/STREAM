@@ -53,9 +53,6 @@ https://live.eltv.az/live/eltv/chunklist_w1920626794.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SxR28nX0/Qafqaz-TV-2017-h-h.png", Qafqaz TV
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 http://str.yodacdn.net/qafkaz/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zGN8RtQC/In-Shot-20250209-192718561.png", İsmayıllı TV
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://a8.radyotelekom.com.tr:3973/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Hk2RT8Bn/images-removebg-preview.png", Live TV
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://tv.mobyservice.ru/livetv/index.m3u8
@@ -71,29 +68,18 @@ https://rtmp.showplus.tv/hls/myshow.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xgsAXgV.png", S TV sinema
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://a8.radyotelekom.com.tr:3179/stream/play.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jTmp4fC.png", TV36 AZ
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-http://cdn-stv.yayin.com.tr/stv/stv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5N4mghBq/In-Shot-20260510-202245174.png", Diginet Cinema tv
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://a8.radyotelekom.com.tr:3276/stream/play.m3u8
-#EXTINF:-1 tvg-id="db997967-6f59-443a-b497-e5a659b0efb4" tvg-name="AZ:Kinozal" tvg-logo="https://a3mw.aile.tv/storage/ded6a62303bc14d1e9ff9af62f77d355" group-title="🇦🇿 Azərbaycan 🇦🇿",🇦🇿Ailə Tv🇦🇿Kinozal
-http://46.229.251.61:80/143361760/584890241/65147
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cRxhxdA.png", ŞİRVAN TV
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://pastebin.com/raw/C13XaXTB
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QW0xBp1.png", kanal 65 cinema
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://a8.radyotelekom.com.tr:3063/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZND3n8r.png", kanal 65 komedi
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://a8.radyotelekom.com.tr:3909/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ydy7DCw5/1762835780517.png", HTV sinema
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-http://maxgoldx.xyz:2095/ademr0000/dmm0301cc00bb55/20588
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793348
 #EXTINF:-1 tvg-logo="http://epg.one/img2/9128.png", ATV Cinema AZ
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-http://qe7abbli.megatv.fun/iptv/PTW747LBU3TCMM/2120/index.m3u8
+https://raw.githubusercontent.com/dedmasteriptv/ATV-Cinema/refs/heads/main/ATVCinema.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qHQSpxW.png", Sirius
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1siriustv.m3u8
@@ -106,38 +92,18 @@ http://b7453.ant07.art/live/aktas.xxx/14102022xyx/170295.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qpfuy53.png",CinePlus Yesilcam
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 http://cineplus-yesilcam.supersatadmin.workers.dev/cineplusyesilcam.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VbQqzzE.png",ON Sinema
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-http://maxtvaksiyonfhd.streams-supersatforum.workers.dev/index.m3u8
-#EXTINF:-1 tvg-logo"tvg-logo="https://i.postimg.cc/SxbqDbJg/In-Shot-20260501-200431808.png",TELE ON
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-http://teleontvstreams.supersatadmin.workers.dev/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KhRtHJf.png", YANSIMA SİNEMA HDᵀᴿ
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://live20.bozztv.com/akamaissh101/ssh101/ysmtvmedya/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KpSSF4g.png", YANSIMA music
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://live20.bozztv.com/akamaissh101/ssh101/ymmusictv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/BnYCpP6k/In-Shot-20250911-180524171.png" group-title="🇦🇿 Azərbaycan 🇦🇿",YANSIMA DANS
-https://azerbaycan.biz-az.workers.dev/ymdanstv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yWcGNHj.png", Pati tvᵀᴿ
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 http://5.178.103.239:55/d/live/out.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VAG8ZQ5.png", SDM TVᵀᴿ
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rFWP1V8B/1757188084827.png", Play TVᵀᴿ
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U3IjbqP.png",  ISVIÇRE TVᵀᴿ
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://i41.ozelip.com:3269/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wjChc8vs/logo-31.png", Deniz posdasıᵀᴿ
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WKERCaA.png", Boncuk tvᵀᴿ
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-http://104.238.23.191/BoncukTV/live/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/3x17mQj8/In-Shot-20260527-200622950.png" group-title="🇦🇿 Azərbaycan 🇦🇿",KANAL 30
 http://162.212.179.32:80/akamaissh101/ssh101/kanal30/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/wj2yvP7R/In-Shot-20260527-201833030.png" group-title="🇦🇿 Azərbaycan 🇦🇿",F MAX 
@@ -158,8 +124,6 @@ http://162.212.179.32:80/akamaissh101/ssh101/teber_tv5/chunks.m3u8
 http://162.212.179.32:80/akamaissh101/ssh101/teber_tv6/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/wMbVZ903/In-Shot-20260522-185733082.png" group-title="🇦🇿 Azərbaycan 🇦🇿",CEVIK TV
 http://162.212.179.32:80/akamaissh101/ssh101/teber_tv7/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/wMbVZ903/In-Shot-20260522-185733082.png" group-title="🇦🇿 Azərbaycan 🇦🇿",MAXITV 
-http://162.212.179.32:80/akamaissh101/ssh101/maxitv/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/UVnzoF5.jpeg" group-title="🇦🇿 Azərbaycan 🇦🇿",TEBER KRAL 
 https://catcast.ismailturret.workers.dev/50457.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/kGGdms8M/In-Shot-20260531-161329581.png" group-title="🇦🇿 Azərbaycan 🇦🇿",DENGE movie TV
@@ -169,9 +133,6 @@ http://162.212.179.32:80/akamaissh101/ssh101/movietv/chunks.m3u8
 https://tv191.radyotelekom.com.tr:3996/stream/play.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/br7hSHP2/In-Shot-20260531-073742477.png" group-title="🇦🇿 Azərbaycan 🇦🇿",FLUX TV
 https://a8.radyotelekom.com.tr:3232/stream/play.m3u8
-#EXTINF:0 tvg-id="3"tvg-logo="https://i.postimg.cc/zvWWY15P/In-Shot-20260501-201834312.png",KEMAL SUNAL
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Kemal_Sunal_Tv.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/rwM3jDB6/akkaontvust.png",AKKON TV
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://streams.uzunmuhalefet.com/stream/74555614-af2a-40ca-aaba-eaa665343c5c.m3u8
@@ -389,9 +350,9 @@ https://cdn4.yayin.com.tr/kntv/video.m3u8
 https://cdn4.yayin.com.tr/bakixebertv/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pXQ8b7b4/icon.png"  group-title="🇦🇿 Azərbaycan 🇦🇿", Ayaz TV
 https://janya-ayaztv.vgcdn.net/ptnr-Vipo%20TV/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_1500k.m3u8
-#EXTINF:-1 tvg-logo="",MAHNI TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pTRPMbdh/In-Shot-20250303-143546125.png",MAHNI TV
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://hls.mahnitv.az/TV_AZE_MahniTV/video.m3u8
+https:/stream.yayim.az/MahniTV/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ro0HPDJ.png", AZ Music HD
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
@@ -1035,6 +996,229 @@ https://str.yodacdn.net/radio_int/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/5t91Qkqr/In-Shot-20260603-212112160.png" group-title="🇦🇿 Azərbaycan radioları",ASAN radio 100.0 fm
 https://play.asanradio.az/
 
+
+#EXTINF:-1 tvg-id="" tvg-name="AZ: AZTV FHD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: AZTV FHD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793389
+#EXTINF:-1 tvg-id="" tvg-name="AZ: AZTV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: AZTV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793388
+#EXTINF:-1 tvg-id="" tvg-name="AZ: ATV AZAD FHD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: ATV AZAD FHD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793387
+#EXTINF:-1 tvg-id="" tvg-name="AZ: ATV AZAD HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: ATV AZAD HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793386
+#EXTINF:-1 tvg-id="" tvg-name="AZ: XEZER FHD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: XEZER FHD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793385
+#EXTINF:-1 tvg-id="" tvg-name="AZ: XEZER HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: XEZER HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793384
+#EXTINF:-1 tvg-id="" tvg-name="AZ: SPACE FHD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: SPACE FHD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793383
+#EXTINF:-1 tvg-id="" tvg-name="AZ: SPACE HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: SPACE HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793382
+#EXTINF:-1 tvg-id="" tvg-name="AZ: ARB TV FHD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: ARB TV FHD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793381
+#EXTINF:-1 tvg-id="" tvg-name="AZ: ARB TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: ARB TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793380
+#EXTINF:-1 tvg-id="" tvg-name="AZ: DUNYA TV FHD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: DUNYA TV FHD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793379
+#EXTINF:-1 tvg-id="" tvg-name="AZ: DUNYA TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: DUNYA TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793378
+#EXTINF:-1 tvg-id="" tvg-name="AZ: ICTIMAI TV FHD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: ICTIMAI TV FHD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793377
+#EXTINF:-1 tvg-id="" tvg-name="AZ: ICTIMAI TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: ICTIMAI TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793376
+#EXTINF:-1 tvg-id="" tvg-name="AZ: MEDENIYYET TV FHD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: MEDENIYYET TV FHD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793375
+#EXTINF:-1 tvg-id="" tvg-name="AZ: MEDENIYYET TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: MEDENIYYET TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793374
+#EXTINF:-1 tvg-id="" tvg-name="AZ: KANAL S TV FHD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: KANAL S TV FHD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793373
+#EXTINF:-1 tvg-id="" tvg-name="AZ: KANAL S TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: KANAL S TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793372
+#EXTINF:-1 tvg-id="" tvg-name="AZ: ARB 24 TV FHD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: ARB 24 TV FHD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793371
+#EXTINF:-1 tvg-id="" tvg-name="AZ: ARB 24 TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: ARB 24 TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793370
+#EXTINF:-1 tvg-id="" tvg-name="AZ: REAL TV FHD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: REAL TV FHD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793369
+#EXTINF:-1 tvg-id="" tvg-name="AZ: REAL TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: REAL TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793368
+#EXTINF:-1 tvg-id="" tvg-name="AZ: CBC TV FHD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: CBC TV FHD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793367
+#EXTINF:-1 tvg-id="" tvg-name="AZ: CBC TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: CBC TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793366
+#EXTINF:-1 tvg-id="" tvg-name="AZ: ARB GUNES TV FHD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: ARB GUNES TV FHD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793365
+#EXTINF:-1 tvg-id="" tvg-name="AZ: ARB GUNES TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: ARB GUNES TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793364
+#EXTINF:-1 tvg-id="" tvg-name="AZ: TMB AZ TV FHD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: TMB AZ TV FHD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793363
+#EXTINF:-1 tvg-id="" tvg-name="AZ: TMB AZ TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: TMB AZ TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793362
+#EXTINF:-1 tvg-id="" tvg-name="AZ: MTV AZ TV FHD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: MTV AZ TV FHD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793361
+#EXTINF:-1 tvg-id="" tvg-name="AZ: MTV AZ TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: MTV AZ TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793360
+#EXTINF:-1 tvg-id="" tvg-name="AZ: IDMAN TV FHD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: IDMAN TV FHD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793359
+#EXTINF:-1 tvg-id="" tvg-name="AZ: IDMAN TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: IDMAN TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793358
+#EXTINF:-1 tvg-id="" tvg-name="AZ: CBC SPOR TV FHD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: CBC SPOR TV FHD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793357
+#EXTINF:-1 tvg-id="" tvg-name="AZ: CBC SPOR TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: CBC SPOR TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793356
+#EXTINF:-1 tvg-id="" tvg-name="AZ: BAKU TV FHD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: BAKU TV FHD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793355
+#EXTINF:-1 tvg-id="" tvg-name="AZ: BAKU TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: BAKU TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793354
+#EXTINF:-1 tvg-id="" tvg-name="AZ: KONUL TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: KONUL TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793353
+#EXTINF:-1 tvg-id="" tvg-name="AZ: SHOWPLUS TV" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: SHOWPLUS TV
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793352
+#EXTINF:-1 tvg-id="" tvg-name="AZ: AZAD SOZ AZ TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: AZAD SOZ AZ TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793351
+#EXTINF:-1 tvg-id="" tvg-name="AZ: FTV TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: FTV TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793350
+#EXTINF:-1 tvg-id="" tvg-name="AZ: ATV CINEMA TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: ATV CINEMA TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793349
+#EXTINF:-1 tvg-id="" tvg-name="AZ: HTV SINEMA TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: HTV SINEMA TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793348
+#EXTINF:-1 tvg-id="" tvg-name="AZ: MEGA TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: MEGA TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793347
+#EXTINF:-1 tvg-id="" tvg-name="AZ: SİRVAN TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: SİRVAN TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793346
+#EXTINF:-1 tvg-id="" tvg-name="AZ: DALGA TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: DALGA TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793345
+#EXTINF:-1 tvg-id="" tvg-name="AZ: ISMAILLI TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: ISMAILLI TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793344
+#EXTINF:-1 tvg-id="" tvg-name="AZ: CTV VİZYON 1 TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: CTV VİZYON 1 TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793343
+#EXTINF:-1 tvg-id="" tvg-name="AZ: CTV VIZYON 2 TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: CTV VIZYON 2 TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793342
+#EXTINF:-1 tvg-id="" tvg-name="AZ: CTV SENEDLI TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: CTV SENEDLI TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793341
+#EXTINF:-1 tvg-id="" tvg-name="AZ: RETRO AZ TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: RETRO AZ TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793340
+#EXTINF:-1 tvg-id="" tvg-name="AZ: ESMA TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: ESMA TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793339
+#EXTINF:-1 tvg-id="" tvg-name="AZ: ULDUZ TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: ULDUZ TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793338
+#EXTINF:-1 tvg-id="" tvg-name="AZ: CHDTV MOVIES TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: CHDTV MOVIES TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793337
+#EXTINF:-1 tvg-id="" tvg-name="AZ: CHDTV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: CHDTV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793336
+#EXTINF:-1 tvg-id="" tvg-name="AZ: HTV AZERBAYCAN TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: HTV AZERBAYCAN TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793335
+#EXTINF:-1 tvg-id="" tvg-name="AZ: BOX CHANNEL TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: BOX CHANNEL TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793334
+#EXTINF:-1 tvg-id="" tvg-name="AZ: MEGA YESILCAM TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: MEGA YESILCAM TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793333
+#EXTINF:-1 tvg-id="" tvg-name="AZ: MEGA SABAN TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: MEGA SABAN TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793332
+#EXTINF:-1 tvg-id="" tvg-name="AZ: DIZI TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: DIZI TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793331
+#EXTINF:-1 tvg-id="" tvg-name="AZ: IDEA TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: IDEA TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793330
+#EXTINF:-1 tvg-id="" tvg-name="AZ: UTVNEWS TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: UTVNEWS TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793329
+#EXTINF:-1 tvg-id="" tvg-name="AZ: HZ.YUSIF TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: HZ.YUSIF TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793328
+#EXTINF:-1 tvg-id="" tvg-name="AZ: TVPLUS TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: TVPLUS TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793327
+#EXTINF:-1 tvg-id="" tvg-name="AZ: RIHAT TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: RIHAT TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793326
+#EXTINF:-1 tvg-id="" tvg-name="AZ: MEGA MUZIK TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: MEGA MUZIK TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793325
+#EXTINF:-1 tvg-id="" tvg-name="AZ: UMID TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: UMID TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793324
+#EXTINF:-1 tvg-id="" tvg-name="AZ: DOGRU TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: DOGRU TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793323
+#EXTINF:-1 tvg-id="" tvg-name="AZ: AKTV SERIAL TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: AKTV SERIAL TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793322
+#EXTINF:-1 tvg-id="" tvg-name="AZ: AKTV TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: AKTV TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793321
+#EXTINF:-1 tvg-id="" tvg-name="AZ: CTV USAQ TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: CTV USAQ TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793320
+#EXTINF:-1 tvg-id="" tvg-name="AZ: CTV AZERBYCAN TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: CTV AZERBYCAN TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793319
+#EXTINF:-1 tvg-id="" tvg-name="AZ: CTV MEYXANA TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: CTV MEYXANA TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793318
+#EXTINF:-1 tvg-id="" tvg-name="AZ: ARI MUZIK HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: ARI MUZIK HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793317
+#EXTINF:-1 tvg-id="" tvg-name="AZ: ARI MUGAM TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: ARI MUGAM TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793316
+#EXTINF:-1 tvg-id="" tvg-name="AZ: NEW TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: NEW TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793315
+#EXTINF:-1 tvg-id="" tvg-name="AZ: GEM AZ TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: GEM AZ TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793314
+#EXTINF:-1 tvg-id="" tvg-name="AZ: UTVSHOW TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: UTVSHOW TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793313
+#EXTINF:-1 tvg-id="" tvg-name="AZ: QAFQAZ TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: QAFQAZ TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793312
+#EXTINF:-1 tvg-id="" tvg-name="AZ: GUNAZ TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: GUNAZ TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793311
+#EXTINF:-1 tvg-id="" tvg-name="AZ: KEPEZ TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: KEPEZ TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793310
+#EXTINF:-1 tvg-id="" tvg-name="AZ: QEBELE TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: QEBELE TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793309
+#EXTINF:-1 tvg-id="" tvg-name="AZ: LIVE TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: LIVE TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793308
+#EXTINF:-1 tvg-id="" tvg-name="AZ: ALVİN TV" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: ALVİN TV
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793307
+#EXTINF:-1 tvg-id="" tvg-name="AZ: ELTV TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: ELTV TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793306
+#EXTINF:-1 tvg-id="" tvg-name="AZ: AZSTAR TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: AZSTAR TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793305
+#EXTINF:-1 tvg-id="" tvg-name="AZ: NAXCIVAN TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: NAXCIVAN TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793304
+#EXTINF:-1 tvg-id="" tvg-name="AZ: APA TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: APA TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793303
+#EXTINF:-1 tvg-id="" tvg-name="AZ: KATV 1 TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: KATV 1 TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793302
+#EXTINF:-1 tvg-id="" tvg-name="AZ: HADI TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: HADI TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793301
+#EXTINF:-1 tvg-id="" tvg-name="AZ: AYAZ TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: AYAZ TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793300
+#EXTINF:-1 tvg-id="" tvg-name="AZ: POP STAR TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: POP STAR TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793299
+#EXTINF:-1 tvg-id="" tvg-name="AZ: VASTOK TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: VASTOK TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793298
+#EXTINF:-1 tvg-id="" tvg-name="AZ: SEHIYYE TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: SEHIYYE TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793297
+#EXTINF:-1 tvg-id="" tvg-name="AZ: SEHER TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: SEHER TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793296
+#EXTINF:-1 tvg-id="" tvg-name="AZ: AQRO TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: AQRO TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793295
+#EXTINF:-1 tvg-id="" tvg-name="AZ: 9 VOLNE TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: 9 VOLNE TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793294
+#EXTINF:-1 tvg-id="" tvg-name="AZ: KANAL 35 TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: KANAL 35 TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793293
+#EXTINF:-1 tvg-id="" tvg-name="AZ: VIP TV" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: VIP TV
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793292
+#EXTINF:-1 tvg-id="" tvg-name="AZ: VILAYET TV" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: VILAYET TV
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793291
+#EXTINF:-1 tvg-id="" tvg-name="AZ: KANAL12 TV" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: KANAL12 TV
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793290
+#EXTINF:-1 tvg-id="" tvg-name="AZ: ON4 TV" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: ON4 TV
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793289
+#EXTINF:-1 tvg-id="" tvg-name="AZ: MEHRAB TV" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: MEHRAB TV
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793288
+#EXTINF:-1 tvg-id="" tvg-name="AZ: AKTV SPORT TV HD" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: AKTV SPORT TV HD
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793287
+#EXTINF:-1 tvg-id="" tvg-name="AZ: AZER_SPORT 1 TV" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: AZER_SPORT 1 TV
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793286
+#EXTINF:-1 tvg-id="" tvg-name="AZ: SETANTA SPORT 1 TV" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: SETANTA SPORT 1 TV
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793285
+#EXTINF:-1 tvg-id="" tvg-name="AZ: SETANTA SPORT 2 TV" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: SETANTA SPORT 2 TV
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793284
+#EXTINF:-1 tvg-id="" tvg-name="AZ: AZERI DINI 1 TV" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: AZERI DINI 1 TV
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793283
+#EXTINF:-1 tvg-id="" tvg-name="AZ: AZERI DINI 2 TV" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: AZERI DINI 2 TV
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793282
+#EXTINF:-1 tvg-id="" tvg-name="AZ: AZERI DINI 3 TV" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: AZERI DINI 3 TV
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793281
+#EXTINF:-1 tvg-id="" tvg-name="AZ: AZERI DINI 4 TV" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: AZERI DINI 4 TV
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793280
+#EXTINF:-1 tvg-id="" tvg-name="AZ: AZERI DINI 5 TV" tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ✨ AZERBAYCAN",AZ: AZERI DINI 5 TV
+http://enomaxtv.xyz:8080/aNDY6JaN/hpqAnwHXc8BY/793279
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Nf5t5wYV/GIF-20260409-031823-067.gif", AzTv
 #EXTGRP:FLUSSONIC.IZONE.AZ
@@ -1884,223 +2068,6 @@ http://kinowalk.hopto.org/vhs90e_live
 #EXTINF:-1 tvg-name="Паранормальный архив" tvg-logo="https://i.postimg.cc/Gm4xYzXW/paranorm.png", Паранормальный архив
 #EXTGRP:KİNOWALK
 http://kinowalk.hopto.org/paranormal404_live
-
-#EXTINF:-1 group-title="СИТИ-НЕТ",Первый канал
-http://91.221.252.12:82/tv15
-#EXTINF:-1 group-title="СИТИ-НЕТ",Россия 1
-http://91.221.252.12:82/tv100
-#EXTINF:-1 group-title="СИТИ-НЕТ",НТВ Хит
-http://91.221.252.12:82/tv87
-#EXTINF:-1 group-title="СИТИ-НЕТ",НТВ Сериал
-http://91.221.252.12:82/tv86
-#EXTINF:-1 group-title="СИТИ-НЕТ",ТНТ Music
-http://91.221.252.12:82/tv101
-#EXTINF:-1 group-title="СИТИ-НЕТ",НТВ
-http://91.221.252.12:82/tv13
-#EXTINF:-1 group-title="СИТИ-НЕТ",Россия 1
-http://91.221.252.12:82/tv19
-#EXTINF:-1 group-title="СИТИ-НЕТ",Рен ТВ
-http://91.221.252.12:82/tv18
-#EXTINF:-1 group-title="СИТИ-НЕТ",Россия 24
-http://91.221.252.12:82/tv20
-#EXTINF:-1 group-title="СИТИ-НЕТ",Россия К
-http://91.221.252.12:82/tv21
-#EXTINF:-1 group-title="СИТИ-НЕТ",ТНТ4
-http://91.221.252.12:82/tv57
-#EXTINF:-1 group-title="СИТИ-НЕТ",ТНТ
-http://91.221.252.12:82/tv25
-#EXTINF:-1 group-title="СИТИ-НЕТ",Animal Planet HD
-http://91.221.252.12:82/tv41
-#EXTINF:-1 group-title="СИТИ-НЕТ",Terra
-http://91.221.252.12:82/tv44
-#EXTINF:-1 group-title="СИТИ-НЕТ",TLC HD
-http://91.221.252.12:82/tv45
-#EXTINF:-1 group-title="СИТИ-НЕТ",Viasat History
-http://91.221.252.12:82/tv46
-#EXTINF:-1 group-title="СИТИ-НЕТ",RTG HD
-http://91.221.252.12:82/tv43
-#EXTINF:-1 group-title="СИТИ-НЕТ",Viasat Nature
-http://91.221.252.12:82/tv47
-#EXTINF:-1 group-title="СИТИ-НЕТ",Дикая охота HD
-http://91.221.252.12:82/tv49
-#EXTINF:-1 group-title="СИТИ-НЕТ",Дикая рыбалка HD
-http://91.221.252.12:82/tv50
-#EXTINF:-1 group-title="СИТИ-НЕТ",Мужской
-http://91.221.252.12:82/tv52
-#EXTINF:-1 group-title="СИТИ-НЕТ",Охота и Рыбалка
-http://91.221.252.12:82/tv53
-#EXTINF:-1 group-title="СИТИ-НЕТ",Оплот-ТВ HD
-http://91.221.252.12:82/tv3
-#EXTINF:-1 group-title="СИТИ-НЕТ",Новороссия ТВ
-http://91.221.252.12:82/tv2
-#EXTINF:-1 group-title="СИТИ-НЕТ",Оплот 2
-http://91.221.252.12:82/tv4
-#EXTINF:-1 group-title="СИТИ-НЕТ",Первый Республиканский
-http://91.221.252.12:82/tv1
-#EXTINF:-1 group-title="СИТИ-НЕТ",Оплот ТВ
-http://91.221.252.12:82/tv5
-#EXTINF:-1 group-title="СИТИ-НЕТ",8 канал
-http://91.221.252.12:82/tv7
-#EXTINF:-1 group-title="СИТИ-НЕТ",Домашний
-http://91.221.252.12:82/tv9
-#EXTINF:-1 group-title="СИТИ-НЕТ",Звезда
-http://91.221.252.12:82/tv10
-#EXTINF:-1 group-title="СИТИ-НЕТ",Мир
-http://91.221.252.12:82/tv12
-#EXTINF:-1 group-title="СИТИ-НЕТ",ОТР
-http://91.221.252.12:82/tv14
-#EXTINF:-1 group-title="СИТИ-НЕТ",Пятница
-http://91.221.252.12:82/tv16
-#EXTINF:-1 group-title="СИТИ-НЕТ",Пятый канал
-http://91.221.252.12:82/tv17
-#EXTINF:-1 group-title="СИТИ-НЕТ",Спас
-http://91.221.252.12:82/tv22
-#EXTINF:-1 group-title="СИТИ-НЕТ",СТС
-http://91.221.252.12:82/tv23
-#EXTINF:-1 group-title="СИТИ-НЕТ",ТВЦ
-http://91.221.252.12:82/tv24
-#EXTINF:-1 group-title="СИТИ-НЕТ",360
-http://91.221.252.12:82/tv26
-#EXTINF:-1 group-title="СИТИ-НЕТ",360 Новости
-http://91.221.252.12:82/tv27
-#EXTINF:-1 group-title="СИТИ-НЕТ",КВН ТВ
-http://91.221.252.12:82/tv30
-#EXTINF:-1 group-title="СИТИ-НЕТ",Мир 24
-http://91.221.252.12:82/tv51
-#EXTINF:-1 group-title="СИТИ-НЕТ",Кухня ТВ
-http://91.221.252.12:82/tv54
-#EXTINF:-1 group-title="СИТИ-НЕТ",Сарафан
-http://91.221.252.12:82/tv55
-#EXTINF:-1 group-title="СИТИ-НЕТ",СТС Love
-http://91.221.252.12:82/tv56
-#EXTINF:-1 group-title="СИТИ-НЕТ",Усадьба
-http://91.221.252.12:82/tv58
-#EXTINF:-1 group-title="СИТИ-НЕТ",Че
-http://91.221.252.12:82/tv59
-#EXTINF:-1 group-title="СИТИ-НЕТ",Ю
-http://91.221.252.12:82/tv60
-#EXTINF:-1 group-title="СИТИ-НЕТ",TV XXI
-http://91.221.252.12:82/tv61
-#EXTINF:-1 group-title="СИТИ-НЕТ",TV1000 Русское Кино
-http://91.221.252.12:82/tv68
-#EXTINF:-1 group-title="СИТИ-НЕТ",TV1000 Action
-http://91.221.252.12:82/tv62
-#EXTINF:-1 group-title="СИТИ-НЕТ",TV1000
-http://91.221.252.12:82/tv64
-#EXTINF:-1 group-title="СИТИ-НЕТ",Vip Comedy HD
-http://91.221.252.12:82/tv63
-#EXTINF:-1 group-title="СИТИ-НЕТ",Vip Megahit HD
-http://91.221.252.12:82/tv65
-#EXTINF:-1 group-title="СИТИ-НЕТ",Vip Premiere HD
-http://91.221.252.12:82/tv66
-#EXTINF:-1 group-title="СИТИ-НЕТ",Vip Serial HD
-http://91.221.252.12:82/tv67
-#EXTINF:-1 group-title="СИТИ-НЕТ",Дом Кино
-http://91.221.252.12:82/tv70
-#EXTINF:-1 group-title="СИТИ-НЕТ",Иллюзион+
-http://91.221.252.12:82/tv72
-#EXTINF:-1 group-title="СИТИ-НЕТ",Еврокино
-http://91.221.252.12:82/tv71
-#EXTINF:-1 group-title="СИТИ-НЕТ",Родное кино
-http://91.221.252.12:82/tv73
-#EXTINF:-1 group-title="СИТИ-НЕТ",Кино ТВ HD
-http://91.221.252.12:82/tv74
-#EXTINF:-1 group-title="СИТИ-НЕТ",Киномикс
-http://91.221.252.12:82/tv76
-#EXTINF:-1 group-title="СИТИ-НЕТ",Кинокомедия
-http://91.221.252.12:82/tv75
-#EXTINF:-1 group-title="СИТИ-НЕТ",КИНОПРЕМЬЕРА HD
-http://91.221.252.12:82/tv77
-#EXTINF:-1 group-title="СИТИ-НЕТ",Киносаидание
-http://91.221.252.12:82/tv78
-#EXTINF:-1 group-title="СИТИ-НЕТ",Киносемья
-http://91.221.252.12:82/tv79
-#EXTINF:-1 group-title="СИТИ-НЕТ",Киносерия
-http://91.221.252.12:82/tv80
-#EXTINF:-1 group-title="СИТИ-НЕТ",Киноужас
-http://91.221.252.12:82/tv81
-\#EXTINF:-1 group-title="СИТИ-НЕТ",Родное кино
-http://91.221.252.12:82/tv89
-#EXTINF:-1 group-title="СИТИ-НЕТ",Кинохит
-http://91.221.252.12:82/tv82
-#EXTINF:-1 group-title="СИТИ-НЕТ",Любимое кино
-http://91.221.252.12:82/tv83
-#EXTINF:-1 group-title="СИТИ-НЕТ",Мир сериала HD
-http://91.221.252.12:82/tv84
-#EXTINF:-1 group-title="СИТИ-НЕТ",Мосфильм. Золотая коллекция
-http://91.221.252.12:82/tv85
-#EXTINF:-1 group-title="СИТИ-НЕТ",Победа
-http://91.221.252.12:82/tv88
-#EXTINF:-1 group-title="СИТИ-НЕТ",Комедия
-http://91.221.252.12:82/tv90
-#EXTINF:-1 group-title="СИТИ-НЕТ",Русский Детектив
-http://91.221.252.12:82/tv92
-#EXTINF:-1 group-title="СИТИ-НЕТ",Русский Бестселлер
-http://91.221.252.12:82/tv91
-#EXTINF:-1 group-title="СИТИ-НЕТ",Русский Иллюзион
-http://91.221.252.12:82/tv93
-#EXTINF:-1 group-title="СИТИ-НЕТ",Русский Роман
-http://91.221.252.12:82/tv94
-#EXTINF:-1 group-title="СИТИ-НЕТ",ТВ3
-http://91.221.252.12:82/tv95
-#EXTINF:-1 group-title="СИТИ-НЕТ",Театр
-http://91.221.252.12:82/tv96
-#EXTINF:-1 group-title="СИТИ-НЕТ",Москва Доверие
-http://91.221.252.12:82/tv116
-#EXTINF:-1 group-title="СИТИ-НЕТ",Москва 24
-http://91.221.252.12:82/tv117
-#EXTINF:-1 group-title="СИТИ-НЕТ",МузТВ
-http://91.221.252.12:82/tv102
-#EXTINF:-1 group-title="СИТИ-НЕТ",Шансон ТВ
-http://91.221.252.12:82/tv103
-#EXTINF:-1 group-title="СИТИ-НЕТ",Европа Плюс ТВ
-http://91.221.252.12:82/tv98
-#EXTINF:-1 group-title="СИТИ-НЕТ",СТС Kids
-http://91.221.252.12:82/tv40
-#EXTINF:-1 group-title="СИТИ-НЕТ",Карусель
-http://91.221.252.12:82/tv11
-#EXTINF:-1 group-title="СИТИ-НЕТ",Бобёр
-http://91.221.252.12:82/tv28
-#EXTINF:-1 group-title="СИТИ-НЕТ",Солнце
-http://91.221.252.12:82/tv31
-#EXTINF:-1 group-title="СИТИ-НЕТ",В гостях у сказки
-http://91.221.252.12:82/tv33
-#EXTINF:-1 group-title="СИТИ-НЕТ",Детский мир
-http://91.221.252.12:82/tv34
-#EXTINF:-1 group-title="СИТИ-НЕТ",Мульт
-http://91.221.252.12:82/tv35
-#EXTINF:-1 group-title="СИТИ-НЕТ",Мультиландия
-http://91.221.252.12:82/tv36
-#EXTINF:-1 group-title="СИТИ-НЕТ",Мультимузыка
-http://91.221.252.12:82/tv37
-#EXTINF:-1 group-title="СИТИ-НЕТ",О!
-http://91.221.252.12:82/tv38
-#EXTINF:-1 group-title="СИТИ-НЕТ",Супергерои
-http://91.221.252.12:82/tv39
-#EXTINF:-1 group-title="СИТИ-НЕТ",EUROSPORT 1 HD
-http://91.221.252.12:82/tv104
-#EXTINF:-1 group-title="СИТИ-НЕТ",EUROSPORT 2 HD
-http://91.221.252.12:82/tv105
-#EXTINF:-1 group-title="СИТИ-НЕТ",KHL
-http://91.221.252.12:82/tv106
-#EXTINF:-1 group-title="СИТИ-НЕТ",MMA-TV
-http://91.221.252.12:82/tv107
-#EXTINF:-1 group-title="СИТИ-НЕТ",БОКС ТВ
-http://91.221.252.12:82/tv108
-#EXTINF:-1 group-title="СИТИ-НЕТ",Матч ТВ
-http://91.221.252.12:82/tv109
-#EXTINF:-1 group-title="СИТИ-НЕТ",МАТЧ! ФУТБОЛ 1 HD
-http://91.221.252.12:82/tv111
-#EXTINF:-1 group-title="СИТИ-НЕТ",МАТЧ! БОЕЦ
-http://91.221.252.12:82/tv110
-#EXTINF:-1 group-title="СИТИ-НЕТ",МАТЧ! ФУТБОЛ 2 HD
-http://91.221.252.12:82/tv112
-#EXTINF:-1 group-title="СИТИ-НЕТ",МАТЧ ПРЕМЬЕР HD
-http://91.221.252.12:82/tv114
-#EXTINF:-1 group-title="СИТИ-НЕТ",МАТЧ! ФУТБОЛ 3 HD
-http://91.221.252.12:82/tv113
-#EXTINF:-1 group-title="СИТИ-НЕТ",Футбол
-http://91.221.252.12:82/tv115
 
 #EXTINF:-1 group-title="Oracle Corporation",Техно 24
 http://158.101.222.193:88/georgia_play.php?id=24techno
